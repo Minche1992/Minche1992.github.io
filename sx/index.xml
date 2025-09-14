@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Toigian</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Toigian</description>
+    <title>Sxes on Toigian</title>
+    <link>http://example.org/sx/</link>
+    <description>Recent content in Sxes on Toigian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>kiennt2609@gmail.com (Kien Nguyen-Tuan)</managingEditor>
     <webMaster>kiennt2609@gmail.com (Kien Nguyen-Tuan)</webMaster>
     <lastBuildDate>Sat, 13 Sep 2025 22:29:03 +0800</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/sx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>水母传II 暑假番外篇</title>
       <link>http://example.org/sx/api-fuzzing/</link>
