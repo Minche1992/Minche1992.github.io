@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>kiennt2609@gmail.com (Kien Nguyen-Tuan)</managingEditor>
     <webMaster>kiennt2609@gmail.com (Kien Nguyen-Tuan)</webMaster>
-    <lastBuildDate>Sat, 13 Sep 2025 22:29:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 10:29:03 +0800</lastBuildDate>
     <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>鸣谢</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 14 Sep 2025 10:29:03 +0800</pubDate><author>kiennt2609@gmail.com (Kien Nguyen-Tuan)</author>
+      <guid>http://example.org/about/</guid>
+      <description>特别鸣谢: 沈霞女士</description>
+    </item>
     <item>
       <title>水母传II 暑假番外篇</title>
       <link>http://example.org/sx/api-fuzzing/</link>
